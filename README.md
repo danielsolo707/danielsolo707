@@ -21,7 +21,7 @@
 
 - **[gesture-canvas-museum](https://github.com/danielsolo707/gesture-canvas-museum)** — hand-gesture drawing (MediaPipe + Three.js) · [demo](https://danielsolo707.github.io/gesture-canvas-museum/)
 - **Global IPTV Control Center** — Next.js + Supabase product · [live app](https://global-iptv-control-center.vercel.app)
-- **[pygame-2048](https://github.com/danielsolo707/pygame-2048)** — first real Python project, tested + [playable demo](https://danielsolo707.github.io/pygame-2048/)
+- **[pygame-2048](https://github.com/danielsolo707/pygame-2048)** — Python/Pygame game with tests and a [playable demo](https://danielsolo707.github.io/pygame-2048/)
 
 ---
 
@@ -34,7 +34,7 @@
 ## How I work
 
 1. **Specify** goal, constraints, and metrics  
-2. **Build** (including AI as a force multiplier where it helps)  
+2. **Build** with practical tooling and clear implementation choices
 3. **Verify** with tests, held-out metrics, and honest limitations  
 
 Open to **ML engineering**, **applied AI**, and roles where models meet production.
