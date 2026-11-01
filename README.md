@@ -13,7 +13,6 @@
 | **[BirdCLEF](https://github.com/danielsolo707/BirdCLEF)** | Multi-label bird sound SED — system-upgraded EfficientNet-B0 + attention | Val macro **ROC-AUC 0.9694**, weights + train/eval/infer |
 | **[BipedalWalker-PPO](https://github.com/danielsolo707/BipedalWalker-PPO)** | Continuous control with **PPO** (SB3, 1M steps) | Checkpoints + [training progression video](https://github.com/danielsolo707/BipedalWalker-PPO/blob/main/video/progression_0_to_1M.mp4) |
 | **[AlphaMath](https://github.com/danielsolo707/AlphaMath)** | Offline math agent: **Qwen2.5-Math** writes Python → sandbox → self-repair → majority vote | AIMO-style constraints, no external APIs |
-| **[studio2.0](https://github.com/danielsolo707/studio2.0)** | Personal site & creative portfolio (Next.js, Three.js) | Live: [danielsoleimani.ir](https://danielsoleimani.ir/) |
 
 ---
 
@@ -39,4 +38,4 @@
 
 Open to **ML engineering**, **applied AI**, and roles where models meet production.
 
-**Web:** [danielsoleimani.ir](https://danielsoleimani.ir/) · **GitHub:** [danielsolo707](https://github.com/danielsolo707)
+**GitHub:** [danielsolo707](https://github.com/danielsolo707)
